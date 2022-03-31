@@ -28,11 +28,11 @@ export const CONFIG = {
 
   SIDEPROJECTS: [
     {
-      title: "v1",
+      title: "projeto-portfolio",
       description:
         "🎄 A simple portfolio website made by using React (this website <3)",
       img: "/projects/v1.png",
-      linkto: "v1",
+      linkto: "projeto-portfolio",
       view: "https://garotogordo.codes/",
       mode: "1",
     },
