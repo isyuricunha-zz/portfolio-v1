@@ -4,15 +4,15 @@ import { Header } from '@components/Header';
 
 const Custom404Page:NextPage = () => {
     return (
-     <div className="">
-         <div>
-            <Navbar/>
-         </div>
-         <div className='flex h-screen items-center justify-center'>
-            <p>Not found.. im still making this page lol.</p>
-         </div>
-        <Header title='Not Found!'/>
-     </div>
+      <div className="">
+        <div>
+          <Navbar />
+        </div>
+        <div className="flex h-screen items-center justify-center">
+          <p>Não encontrado... Ainda estou fazendo essa página, ou ela simplesmente não existe.</p>
+        </div>
+        <Header title="Não encontrado!" />
+      </div>
     );
 };
 
