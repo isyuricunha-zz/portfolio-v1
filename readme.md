@@ -1,1 +1,1 @@
-![Preview](https://raw.githubusercontent.com/isyuricunha/projeto-portfolio/master/public/projects/v2.pngg)
+![Preview](https://raw.githubusercontent.com/isyuricunha/projeto-portfolio/master/public/projects/v2.png)
