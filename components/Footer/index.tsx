@@ -6,13 +6,13 @@ export const Footer: FC = () => {
       <div className="flex md:w-7/12 w-10/12 justify-between">
         <div className="flex items-center">
           <p className="flex text-md font-medium text-gray-400">
-            Feito por&nbsp;<a href="https://github.com/isyuricunha" className="text-gray-100 hover:underline underline-violet-700 underline-1">Yuri Cunha</a>
-          </p>
-        </div>
-
-        <div>
-          <p className="flex text-md font-medium text-gray-400">
-            &nbsp;<a href="mailto:garotogordo@icloud.com" className="text-gray-100 hover:underline underline-violet-700 underline-1">garotogordo@icloud.com</a>
+            Feito por&nbsp;
+            <a
+              href="https://github.com/isyuricunha"
+              className="text-gray-100 hover:underline underline-violet-700 underline-1"
+            >
+              Yuri Cunha
+            </a>
           </p>
         </div>
 

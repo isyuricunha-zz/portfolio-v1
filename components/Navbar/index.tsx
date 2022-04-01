@@ -13,7 +13,7 @@ export const Navbar: FC = () => {
         </div>
         <div className="flex items-center text-gray-300">
           <Link href="/projects">
-            <a className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]">
+            <a className="px-5 p-2 m-1 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]">
               Projetos
             </a>
           </Link>
