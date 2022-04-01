@@ -9,6 +9,13 @@ export const Footer: FC = () => {
             Feito por&nbsp;<a href="https://github.com/isyuricunha" className="text-gray-100 hover:underline underline-violet-700 underline-1">Yuri Cunha</a>
           </p>
         </div>
+
+        <div>
+          <p className="flex text-md font-medium text-gray-400">
+            &nbsp;<a href="mailto:garotogordo@icloud.com" className="text-gray-100 hover:underline underline-violet-700 underline-1">garotogordo@icloud.com</a>
+          </p>
+        </div>
+
         <div className="flex items-center text-gray-300">
           <p>com {"💙"}</p>
         </div>

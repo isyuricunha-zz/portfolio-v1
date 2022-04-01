@@ -23,13 +23,13 @@ export const Main: FC = () => {
                   Eu sou um Administrador de Banco de Dados e Programador
                   Backend com {new Date().getFullYear() - 2019} anos de
                   experiencia.
-                  <br />E um simples estudante que gasta todo o seu livre
+                  <br />E um simples estudante que gasta todo o seu tempo livre
                   fazendo projetos/sites/softwares/query's open-source.
                 </p>
               </div>
             </div>
           </div>
-          <div className="flex md:pt-10 pt-4 text-gray-400">
+          <div className="flex md:pt-10 pt-4 text-gray-300">
             <a
               href="mailto:garotogordo@icloud.com"
               className="px-8 p-3 rounded-full hover:bg-[#292929] transition bg-[#1f1f1f]"
@@ -93,7 +93,7 @@ export const Main: FC = () => {
           <div className="md:w-2/3  text-gray-200">
             <p className="text-3xl font-semibold">Sobre mim</p>
             <p className="mt-4 md:w-11/12">
-              Eu programo desde 2019 ({new Date().getFullYear() - 2019} anos), e
+              Eu programo desde 2017 ({new Date().getFullYear() - 2017} anos), e
               mesmo sendo um programador, eu gosto muito mais de banco de dados.
             </p>
             <p className="mt-4 md:w-11/12">
