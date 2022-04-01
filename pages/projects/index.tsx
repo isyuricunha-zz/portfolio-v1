@@ -63,7 +63,7 @@ const index = function () {
                       {CONFIG.SIDEPROJECTS[0].linkto && (
                         <a
                           className="bg-gray-600 group-hover:bg-gray-700 p-2 px-8 rounded-md text-center transition"
-                          href={`https://github.com/isyuricunha/${r.title}`}
+                          href={`https://github.com/isyuricunha/${r.linkto}`}
                         >
                           Github
                         </a>

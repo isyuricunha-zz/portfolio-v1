@@ -61,7 +61,7 @@ interface SIDEPROJECTS {
   title: string;
   description: string;
   img: string;
-  linkto: any;
+  linkto: string;
   view: string;
   mode: string;
 }
