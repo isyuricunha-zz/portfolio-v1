@@ -1,7 +1,7 @@
 export const CONFIG = {
   MAINPROJECTS: [
     {
-      title: "Reponse App",
+      title: "[Teste] Reponse App",
       description: "A new way to chat with your communities and friends.",
       role: "Founder & Front-End Developer",
       what: "I founded Reponse back in 2021 to make comminication more easy than ever!",
@@ -9,7 +9,7 @@ export const CONFIG = {
       linkto: "https://reponse.app",
     },
     {
-      title: "CodAre",
+      title: "[Teste] CodAre",
       description: "A Discord server for coding community.",
       role: "Support Team & Staff",
       what: "I joined the CodAre's support team in 2020 and it was best decision in my life.",
@@ -17,7 +17,7 @@ export const CONFIG = {
       linkto: "https://codare.fun",
     },
     {
-      title: "RepeatPay",
+      title: "[Teste] RepeatPay",
       description: "Innovative payment solution for your websites.",
       role: "Founder & Developer",
       what: "I founded RepeatPay back in 2021 to make open-source donating app for your donate pages and etc..",
@@ -28,7 +28,7 @@ export const CONFIG = {
 
   SIDEPROJECTS: [
     {
-      title: "projeto-portfolio",
+      title: "[Teste] projeto-portfolio",
       description:
         "🎄 A simple portfolio website made by using React (this website <3)",
       img: "/projects/v1.png",
@@ -37,7 +37,7 @@ export const CONFIG = {
       mode: "1",
     },
     {
-      title: "v2",
+      title: "[Teste] v2",
       description:
         "🎄 A simple portfolio website made by using React (this website <3)",
       img: "/projects/v1.png",
