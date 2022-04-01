@@ -1,12 +1,13 @@
 export const CONFIG = {
   MAINPROJECTS: [
     {
-      title: "[Teste] Reponse App",
-      description: "A new way to chat with your communities and friends.",
-      role: "Founder & Front-End Developer",
-      what: "I founded Reponse back in 2021 to make comminication more easy than ever!",
-      img: "/projects/reponse.png",
-      linkto: "https://reponse.app",
+      title: "Dongdedi: Song Dedication",
+      description:
+        "Um serviço gratuito de dedicação de música adequado para casamentos, festas ou qualquer evento.",
+      role: "Fundador e dbA",
+      what: "Aqui você pode enviar o link para as pessoas te dedicarem músicas. E, elas podem até subir arquivos em mp3!",
+      img: "/projects/songdedi.jpg",
+      linkto: "https://songdedi-admin.herokuapp.com/home",
     },
     {
       title: "[Teste] CodAre",
