@@ -7,7 +7,7 @@ export const CONFIG = {
       role: "Fundador e dbA",
       what: "Aqui você pode enviar o link para as pessoas te dedicarem músicas. E, elas podem até subir arquivos em mp3!",
       img: "/projects/songdedi.jpg",
-      linkto: "https://songdedi-admin.herokuapp.com/home",
+      linkto: "https://songdedi-admin.herokuapp.com/",
     },
     {
       title: "[Teste] CodAre",
