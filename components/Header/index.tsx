@@ -11,15 +11,16 @@ export const Header: FC<IProps> = function ({ title }) {
       <link rel="icon" href="/icon.png" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-      <meta name="title" content="ReXulEc" />
+      <meta name="title" content="Yuri Cunha" />
       <meta name="description" content="TESTE" />
 
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://garotogordo.codes/" />
-      <meta property="og:title" content="rexulec | mert doğu" />
+      <meta property="og:title" content="Yuri Cunha | " />
       <meta
         property="og:description"
-        content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."
+        content="Eu sou um Administrador de Banco de Dados e Programador Backend com 3 anos de experiencia.
+E um simples estudante que gasta todo o seu tempo livre fazendo projetos/sites/softwares/query's open-source."
       />
       <meta property="og:image" content="https://garotogordo.codes/icon.png" />
       <meta property="theme-color" content="#d6cdf9" />
@@ -28,7 +29,8 @@ export const Header: FC<IProps> = function ({ title }) {
       <meta property="twitter:title" content="https://garotogordo.codes/" />
       <meta
         property="twitter:description"
-        content="I'm a full stack developer with over 3 years of experience, and a student who spends most all of his free time doing open source projects/websites/softwares."
+        content="Eu sou um Administrador de Banco de Dados e Programador Backend com 3 anos de experiencia.
+E um simples estudante que gasta todo o seu tempo livre fazendo projetos/sites/softwares/query's open-source."
       />
       <meta
         property="twitter:image"
