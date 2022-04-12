@@ -18,15 +18,6 @@ export const CONFIG = {
       img: "/projects/comunidade-dev.png",
       linkto: "https://discord.gg/qCXfvFxpAC",
     },
-    {
-      title: "Leonardo Vargas",
-      description:
-        "Servidor do Discord para a comunidade de desenvolvedores e entusiastas da tecnologia.",
-      role: "Moderador e dbA",
-      what: "A ideia é montar um servidor aonde todos os desenvolvedores, estudantes e entusiastas possam trocar conhecimentos.",
-      img: "/projects/community-dev.jpg",
-      linkto: "https://discord.gg/JPS2bY6GVy",
-    },
   ] as MAINPROJECTS[],
 
   SIDEPROJECTS: [
@@ -41,11 +32,20 @@ export const CONFIG = {
     {
       title: "LinkedIn Auto Unfollow",
       description:
-        "Esse script dá unfollow em todos os seus amigos, páginas e/ou empresas.",
+      "Esse script dá unfollow em todos os seus amigos, páginas e/ou empresas.",
       img: "/projects/linkedin-script.jpg",
       linkto: "linkedin-mass-unfollow",
       view: "Auto-Github-Follow-e-Unfollo",
       mode: "1",
+    },
+    {
+      title: "Leonardo Vargas",
+      description:
+        "Servidor do Discord para a comunidade de desenvolvedores e entusiastas da tecnologia.",
+      role: "Moderador e dbA",
+      what: "A ideia é montar um servidor aonde todos os desenvolvedores, estudantes e entusiastas possam trocar conhecimentos.",
+      img: "/projects/community-dev.jpg",
+      linkto: "https://discord.gg/JPS2bY6GVy",
     },
   ] as SIDEPROJECTS[],
 };
