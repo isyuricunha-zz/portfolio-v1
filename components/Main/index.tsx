@@ -15,7 +15,7 @@ export const Main: FC = () => {
             </div>
             <div className="md:ml-5">
               <p className="text-5xl font-bold text-gray-100">Yuri Cunha</p>
-              <p className=" text-fuchsia-400 text-opacity-65 text-xl font-medium">
+              <p className="text-fuchsia-400 text-opacity-65 text-xl font-medium">
                 Database Administrator
               </p>
               <div className="mt-2 flex text-xl text-gray-400 font-semibold">
@@ -103,7 +103,7 @@ export const Main: FC = () => {
               projetos.
             </p>
           </div>
-          <div className="justify-center md:w-1/2 flex grid grid-cols-2 gap-4 text-gray-200 font-medium md:mt-0 mt-5">
+          <div className="justify-center md:w-1/2 grid grid-cols-2 gap-4 text-gray-200 font-medium md:mt-0 mt-5">
             <div className="flex justify-center">
               <div className="w-full">
                 <div className="p-4 rounded-xl bg-[#252525]">
