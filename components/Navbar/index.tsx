@@ -16,7 +16,7 @@ export const Navbar: FC = () => {
             <a className="mr-3">Projetos</a>
           </Link>
           <a
-            href="isyuricunha@icloud.com"
+            href="mailto:isyuricunha@icloud.com"
             className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]"
           >
             Contato
