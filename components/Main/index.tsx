@@ -31,7 +31,7 @@ export const Main: FC = () => {
           </div>
           <div className="flex md:pt-10 pt-4 text-gray-300">
             <a
-              href="mailto:garotogordo@icloud.com"
+              href="mailto:isyuricunha@icloud.com"
               className="px-8 p-3 rounded-full hover:bg-[#292929] transition bg-[#1f1f1f]"
             >
               Contato
