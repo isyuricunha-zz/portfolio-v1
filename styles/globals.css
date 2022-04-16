@@ -17,3 +17,18 @@ html {
   visibility: hidden;
   opacity: 0;
 }
+
+/* default, light mode styling */
+.element {
+  background-color: #fff;
+  color: #000;
+}
+
+/* if user switches the system settings to dark mode */
+/* this media query will be applied */
+@media (prefers-color-scheme: dark) {
+  .element {
+    background-color: #000;
+    color: #fff;
+  }
+}
