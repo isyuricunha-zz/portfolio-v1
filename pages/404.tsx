@@ -24,7 +24,7 @@ export const Custom404: FC<ICustom404> = function ({ statusCode = 404 }) {
   return (
     <div className="bg-Bgnavbar w-full h-full absolute flex items-center justify-center text-white">
       <div className="items-center flex flex-col space-y-7">
-        <a className="text-xl text-purple-300 font-extrabold md:text-7xl text-center">
+        <a className="text-xl text-fuchsia-400 font-extrabold md:text-7xl text-center">
           <span className="text-7xl">
             {statusCode} - Página não encontrada.
           </span>
