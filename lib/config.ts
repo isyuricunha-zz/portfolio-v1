@@ -47,7 +47,7 @@ export const CONFIG = {
       what: "A ideia é montar um servidor aonde todos os desenvolvedores, estudantes e entusiastas possam trocar conhecimentos.",
       img: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0631c195727849.5e9e445700dcf.png",
       linkto: "pokedex",
-      view: "https://discord.gg/JPS2bY6GVy",
+      view: "https://pokedex.garotogordo.codes/",
     },
   ] as SIDEPROJECTS[],
 };
