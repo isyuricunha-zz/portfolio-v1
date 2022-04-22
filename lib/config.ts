@@ -10,13 +10,14 @@ export const CONFIG = {
       linkto: "https://songdedi-admin.herokuapp.com/",
     },
     {
-      title: "Comunidade DEV",
+      title: "Alameda Dev",
       description:
         "Servidor do Discord para a comunidade de desenvolvedores e entusiastas da tecnologia.",
-      role: "Fundador",
+      role: "Moderador e dbA",
       what: "A ideia é montar um servidor aonde todos os desenvolvedores, estudantes e entusiastas possam trocar conhecimentos.",
-      img: "/projects/comunidade-dev.png",
-      linkto: "https://discord.gg/qCXfvFxpAC",
+      img: "/projects/community-dev.jpg",
+      view: "https://discord.gg/qCXfvFxpAC",
+      linkto: "https://discord.gg/JPS2bY6GVy",
     },
   ] as MAINPROJECTS[],
 
@@ -26,26 +27,27 @@ export const CONFIG = {
       description: "Um bot para seguir e deixar de seguir pessoas do GitHub.",
       img: "/projects/follow_unfollow.png",
       linkto: "Auto-Github-Follow-e-Unfollow",
-      view: "https://github.com/isyuricunha/Auto-Github-Follow-e-Unfollo",
+      view: "https://github.com/isyuricunha/Auto-Github-Follow-e-Unfollow",
       mode: "1",
     },
     {
       title: "LinkedIn Auto Unfollow",
       description:
-      "Esse script dá unfollow em todos os seus amigos, páginas e/ou empresas.",
+        "Esse script dá unfollow em todos os seus amigos, páginas e/ou empresas.",
       img: "/projects/linkedin-script.jpg",
       linkto: "linkedin-mass-unfollow",
-      view: "Auto-Github-Follow-e-Unfollo",
+      view: "https://github.com/isyuricunha/linkedin-mass-unfollow",
       mode: "1",
     },
     {
-      title: "Leonardo Vargas",
+      title: "Pokedex",
       description:
-        "Servidor do Discord para a comunidade de desenvolvedores e entusiastas da tecnologia.",
+        "Desenvolver uma plataforma web para listagem e visualização de pokémons.",
       role: "Moderador e dbA",
       what: "A ideia é montar um servidor aonde todos os desenvolvedores, estudantes e entusiastas possam trocar conhecimentos.",
-      img: "/projects/community-dev.jpg",
-      linkto: "https://discord.gg/JPS2bY6GVy",
+      img: "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0631c195727849.5e9e445700dcf.png",
+      linkto: "pokedex",
+      view: "https://discord.gg/JPS2bY6GVy",
     },
   ] as SIDEPROJECTS[],
 };
