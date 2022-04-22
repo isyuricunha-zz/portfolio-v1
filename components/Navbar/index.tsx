@@ -12,7 +12,7 @@ export const Navbar: FC = () => {
           </Link>
         </div>
         <div className="flex items-center text-gray-300">
-          <Link href="/projects">
+          <Link href="/projetos">
             <a className="mr-3">Projetos</a>
           </Link>
           <a
