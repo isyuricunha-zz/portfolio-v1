@@ -57,6 +57,12 @@ export const Main: FC = () => {
               </svg>
             </a>
             <a
+              href="https://www.linkedin.com/in/isyuricunha/"
+              className="ml-2 flex items-center hover:opacity-70 transition"
+            >
+              <img src="https://img.icons8.com/glyph-neue/39/a6a6a7/linkedin-circled.png" />
+            </a>
+            <a
               href="https://twitter.com/isyuricunha"
               className="ml-2 flex items-center hover:opacity-70 transition"
             >
