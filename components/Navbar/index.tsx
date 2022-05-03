@@ -13,8 +13,11 @@ export const Navbar: FC = () => {
         </div>
         <div className="flex items-center text-gray-300">
           <Link href="/projetos">
-            <a className="mr-3">Projetos</a>
+            <a className="mx-3">Projetos</a>
           </Link>
+          <a href="www.garotogordo.CTIwxlOnU7dEshXDQ" className="mr-3">
+            Blog
+          </a>
           <a
             href="mailto:isyuricunha@icloud.com"
             className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]"

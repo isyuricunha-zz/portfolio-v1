@@ -23,8 +23,8 @@ export const Main: FC = () => {
                   Eu sou um Administrador de Banco de Dados e Programador
                   Backend com {new Date().getFullYear() - 2019} anos de
                   experiencia.
-                  <br />E um simples estudante que gasta todo o seu tempo livre
-                  fazendo projetos/sites/softwares/query's open-source.
+                  E um simples estudante que gasta todo o seu tempo livre
+                  fazendo projetos open-source.
                 </p>
               </div>
             </div>
