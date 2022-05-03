@@ -2,15 +2,17 @@ import { Main } from "@components/Main";
 import { Navbar } from "@components/Navbar";
 import { Footer } from "@components/Footer";
 import { Header } from "@components/Header";
+import { Popup } from "@components/Popup";
 
 const Home = () => {
   return (
-      <div>
-        <Header title="Yuri Cunha"/>
-        <Navbar />
-        <Main />
-        <Footer />
-      </div>
+    <div>
+      <Header title="Yuri Cunha" />
+      <Popup />
+      <Navbar />
+      <Main />
+      <Footer />
+    </div>
   );
 };
 

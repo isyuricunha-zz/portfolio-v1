@@ -1,30 +1,32 @@
 import { FC } from "react";
+import { Popup } from "@components/Popup";
 
 export const Main: FC = () => {
   return (
     <div>
       <div className="flex justify-center items-center mt-20">
         <div className="md:w-7/12 w-10/12 mt-5">
-          <div className="md:flex">
-            <div className="mb-5 md:mb-0">
+          <div className="md:flex md:items-center">
+            <div className="mb-3 md:mb-0 md:mr-5">
               <img
                 src="/icon.png"
-                className="rounded-full border-4 border-gray-800 md:w-auto w-1/2"
+                className="rounded-full border-4 border-gray-800 md:h-auto md:w-auto w-5/12 h-5/12"
                 alt=""
               />
             </div>
-            <div className="md:ml-5">
-              <p className="text-5xl font-bold text-gray-100">Yuri Cunha</p>
-              <p className="text-fuchsia-400 text-opacity-65 text-xl font-medium">
+            <div className="">
+              <p className="flex text-5xl font-bold text-gray-100">
+                Yuri Cunha
+              </p>
+              <p className="flex text-fuchsia-400 text-opacity-65 text-xl font-medium">
                 Database Administrator
               </p>
-              <div className="mt-2 flex text-xl text-gray-400 font-semibold">
+              <div className=" text-lg text-gray-500 font-normal">
                 <p className="">
                   Eu sou um Administrador de Banco de Dados e Programador
                   Backend com {new Date().getFullYear() - 2019} anos de
-                  experiencia.
-                  E um simples estudante que gasta todo o seu tempo livre
-                  fazendo projetos open-source.
+                  experiencia. E um simples estudante que gasta todo o seu tempo
+                  livre fazendo projetos open-source.
                 </p>
               </div>
             </div>

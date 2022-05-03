@@ -15,9 +15,9 @@ export const Navbar: FC = () => {
           <Link href="/projetos">
             <a className="mx-3">Projetos</a>
           </Link>
-          <a href="www.garotogordo.CTIwxlOnU7dEshXDQ" className="mr-3">
+          {/* <a href="www.garotogordo.codes" className="mr-3">
             Blog
-          </a>
+          </a> */}
           <a
             href="mailto:isyuricunha@icloud.com"
             className="px-5 p-2 transition rounded-full hover:bg-[#262626] bg-[#1f1f1f]"
