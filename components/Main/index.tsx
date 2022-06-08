@@ -18,15 +18,23 @@ export const Main: FC = () => {
               <p className="flex text-5xl font-bold text-gray-100">
                 Yuri Cunha
               </p>
-              <p className="flex text-fuchsia-400 text-opacity-65 text-xl font-medium">
+              <p className="flex ml-2 text-fuchsia-400 text-opacity-65 text-xl font-medium">
                 Database Administrator
               </p>
-              <div className=" text-lg text-gray-500 font-normal">
+              <br></br>
+              <div className="ml-2 text-lg text-gray-500 font-normal">
                 <p className="">
-                  Eu sou um Administrador de Banco de Dados e Programador
-                  Backend com {new Date().getFullYear() - 2019} anos de
-                  experiencia. E um simples estudante que gasta todo o seu tempo
-                  livre fazendo projetos open-source.
+                  Sou um Administrador de Banco de Dados e Programador Backend
+                  com {new Date().getFullYear() - 2019} anos de experiência. E
+                  um simples estudante que gasta todo o seu tempo livre fazendo
+                  projetos{" "}
+                  <a
+                    href="https://en.wikipedia.org/wiki/Open_source"
+                    className="text-fuchsia-500"
+                  >
+                    Open-Source
+                  </a>
+                  .
                 </p>
               </div>
             </div>
