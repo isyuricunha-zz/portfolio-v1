@@ -113,10 +113,11 @@ export const Main: FC = () => {
               mesmo sendo um programador, eu gosto muito mais de banco de dados.
             </p>
             <p className="mt-4 md:w-11/12">
-              Eu uso principalmente técnologias baseadas em SQL Server/MySQL.
-              <br />À direita, você pode ver algumas das minhas tecnologias
-              favoritas, que também são as que eu uso na maioria dos meus
-              projetos.
+              Uso principalmente tecnologias baseadas em SQL Server/MySQL.
+              <br />
+              <br />
+              À direita, você pode ver algumas das minhas tecnologias
+              favoritas, que também são as que uso na maioria dos meus projetos.
             </p>
           </div>
           <div className="justify-center md:w-1/2 grid grid-cols-2 gap-4 text-gray-200 font-medium md:mt-0 mt-5">
