@@ -8,6 +8,7 @@ const Home = () => {
   return (
     <div>
       <Header title="Yuri Cunha" />
+
       <Popup />
       <Navbar />
       <Main />
