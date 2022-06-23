@@ -41,7 +41,7 @@ export const Main: FC = () => {
           </div>
           <div className="flex md:pt-10 pt-4 text-gray-300">
             <a
-              href="mailto:isyuricunha@icloud.com"
+              href="mailto:isyuricunha@pm.me"
               className="px-8 p-3 rounded-full hover:bg-[#292929] transition bg-[#1f1f1f]"
             >
               Contato
@@ -115,8 +115,7 @@ export const Main: FC = () => {
             <p className="mt-4 md:w-11/12">
               Uso principalmente tecnologias baseadas em SQL Server/MySQL.
               <br />
-              <br />
-              À direita, você pode ver algumas das minhas tecnologias
+              <br />À direita, você pode ver algumas das minhas tecnologias
               favoritas, que também são as que uso na maioria dos meus projetos.
             </p>
           </div>
