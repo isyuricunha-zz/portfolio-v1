@@ -15,7 +15,7 @@ export const Popup: FC = () => {
 
         <a
           className="p-1 ml-3 rounded bg-white/20 hover:bg-white/10"
-          href="https://www.garotogordo.codes/"
+          href="https://www.blog.garotogordo.codes/"
         >
           <svg
             className="w-6 h-6"
