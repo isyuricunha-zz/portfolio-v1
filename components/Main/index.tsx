@@ -24,10 +24,10 @@ export const Main: FC = () => {
               <br></br>
               <div className="ml-2 text-lg text-gray-500 font-normal">
                 <p className="">
-                  Sou um Administrador de Banco de Dados e Programador Backend
-                  com {new Date().getFullYear() - 2019} anos de experiência. E
-                  um simples estudante que gasta todo o seu tempo livre fazendo
-                  projetos{" "}
+                  Sou um Front-end Developer Junior.{" "}
+                  {/* {new Date().getFullYear() - 2019} anos de experiência. */}
+                  E um simples estudante que gasta todo o seu tempo livre
+                  fazendo projetos{" "}
                   <a
                     href="https://en.wikipedia.org/wiki/Open_source"
                     className="text-fuchsia-500"
@@ -70,7 +70,10 @@ export const Main: FC = () => {
               href="https://www.linkedin.com/in/isyuricunha/"
               className="ml-2 flex items-center hover:opacity-70 transition"
             >
-              <img src="https://img.icons8.com/glyph-neue/39/a6a6a7/linkedin-circled.png" />
+              <img
+                src="https://img.icons8.com/glyph-neue/39/a6a6a7/linkedin-circled.png"
+                alt="Linkedin Icon"
+              />
             </a>
             <a
               href="https://twitter.com/isyuricunha"
@@ -109,14 +112,15 @@ export const Main: FC = () => {
           <div className="md:w-2/3  text-gray-200">
             <p className="text-3xl font-semibold">Sobre mim</p>
             <p className="mt-4 md:w-11/12">
-              Eu programo desde 2017 ({new Date().getFullYear() - 2017} anos), e
-              mesmo sendo um programador, eu gosto muito mais de banco de dados.
+              Trabalho com desenvolvimento desde 2019 (
+              {new Date().getFullYear() - 2019} anos), e gosto mais de
+              front-end.
             </p>
             <p className="mt-4 md:w-11/12">
-              Uso principalmente tecnologias baseadas em SQL Server/MySQL.
+              Eu uso principalmente tecnologias baseadas em Node.
               <br />
               <br />À direita, você pode ver algumas das minhas tecnologias
-              favoritas, que também são as que uso na maioria dos meus projetos.
+              favoritas, que também uso na maioria dos meus projetos.
             </p>
           </div>
           <div className="justify-center md:w-1/2 grid grid-cols-2 gap-4 text-gray-200 font-medium md:mt-0 mt-5">
@@ -125,12 +129,13 @@ export const Main: FC = () => {
                 <div className="p-4 rounded-xl bg-[#252525]">
                   <div className="w-1/1 rounded-xl bg-white-500 p-4 bg-opacity-20">
                     <img
+                      alt="React Icon"
                       src="https://img.icons8.com/clouds/100/000000/react.png"
                       style={{ height: "48px", width: "48px", margin: "-10px" }}
                     />
                   </div>
-                  <p className="mt-2">ReactJS</p>
-                  <p>Desde 2022</p>
+                  <p className="mt-2">NextJS</p>
+                  <p>Desde 2021</p>
                 </div>
               </div>
             </div>
@@ -139,6 +144,7 @@ export const Main: FC = () => {
                 <div className="p-4 rounded-xl bg-[#252525]">
                   <div className="w-1/1 rounded-xl bg-white-500 p-4 bg-opacity-20">
                     <img
+                      alt="PHP Icon"
                       src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-php-code-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"
                       style={{ height: "48px", width: "48px", margin: "-10px" }}
                     />
@@ -153,6 +159,7 @@ export const Main: FC = () => {
                 <div className="p-4 rounded-xl bg-[#252525]">
                   <div className="w-1/1 rounded-xl bg-white-500 p-4 bg-opacity-20">
                     <img
+                      alt="Python Icon"
                       src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"
                       style={{ height: "48px", width: "48px", margin: "-10px" }}
                     />
@@ -167,6 +174,7 @@ export const Main: FC = () => {
                 <div className="p-4 rounded-xl bg-[#252525]">
                   <div className="w-1/1 rounded-xl bg-white-500 p-4 bg-opacity-20">
                     <img
+                      alt="SQL Icon"
                       src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/128/000000/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"
                       style={{ height: "48px", width: "48px", margin: "-10px" }}
                     />
