@@ -24,7 +24,14 @@ export const Main: FC = () => {
               <br></br>
               <div className="ml-2 text-lg text-gray-500 font-normal">
                 <p className="">
-                  Sou um Front-end Developer Junior.{" "}
+                  Sou um{" "}
+                  <a
+                    href="https://roadmap.sh/frontend"
+                    className="text-fuchsia-500"
+                  >
+                    Front-end Developer Junior
+                  </a>
+                  .{" "}
                   {/* {new Date().getFullYear() - 2019} anos de experiência. */}
                   E um simples estudante que gasta todo o seu tempo livre
                   fazendo projetos{" "}
