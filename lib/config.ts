@@ -19,6 +19,15 @@ export const CONFIG = {
       view: "https://discord.gg/qCXfvFxpAC",
       linkto: "https://discord.gg/JPS2bY6GVy",
     },
+    {
+      title: "From The Desk, by Yuri Cunha",
+      description: "Eu estou escrevendo, cara! Vou lançar um livro.",
+      role: "Moderador e dbA",
+      what: "Um blog sobre tecnologia, desenvolvimento e inovação. Escrito por Yuri Cunha.",
+      img: "/projects/fromthedesk.jpg",
+      view: "https://github.com/isyuricunha/blog",
+      linkto: "https://www.blog.garotogordo.codes/",
+    },
   ] as MAINPROJECTS[],
 
   SIDEPROJECTS: [
