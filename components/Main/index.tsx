@@ -20,7 +20,7 @@ export const Main: FC = () => {
               <p className="flex ml-2 text-fuchsia-400 text-opacity-65 text-xl font-medium">
                 Front-end Developer Junior
               </p>
-              <br></br>
+              <br />
               <div className="ml-2 text-lg text-gray-500 font-normal">
                 <p className="">
                   Sou um{" "}
