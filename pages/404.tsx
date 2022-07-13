@@ -1,9 +1,5 @@
-import { NextPage } from "next";
-import { Navbar } from "@components/Navbar";
-import { Header } from "@components/Header";
 import type { FC } from "react";
 import { useEffect, useState } from "react";
-import { useRouter } from "next/router";
 
 interface ICustom404 {
   statusCode: number;

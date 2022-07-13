@@ -1,5 +1,4 @@
 import { FC } from "react";
-import { Popup } from "@components/Popup";
 
 export const Main: FC = () => {
   return (
