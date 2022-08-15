@@ -123,10 +123,9 @@ export const Main: FC = () => {
               front-end.
             </p>
             <p className="mt-4 md:w-11/12">
-              Eu uso principalmente tecnologias baseadas em Node.
-              <br />
-              <br />À direita, você pode ver algumas das minhas tecnologias
-              favoritas, que também uso na maioria dos meus projetos.
+              Eu uso principalmente tecnologias baseadas em Node. À direita,
+              você pode ver algumas das minhas tecnologias favoritas, que também
+              são as que uso na maioria dos meus projetos.
             </p>
           </div>
           <div className="justify-center md:w-1/2 grid grid-cols-2 gap-4 text-gray-200 font-medium md:mt-0 mt-5">
@@ -151,11 +150,11 @@ export const Main: FC = () => {
                   <div className="w-1/1 rounded-xl bg-white-500 p-4 bg-opacity-20">
                     <img
                       alt="PHP Icon"
-                      src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-php-code-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"
+                      src="https://img.icons8.com/bubbles/64/000000/react.png"
                       style={{ height: "48px", width: "48px", margin: "-10px" }}
                     />
                   </div>
-                  <p className="mt-2">PHP</p>
+                  <p className="mt-2">React</p>
                   <p>Desde 2021</p>
                 </div>
               </div>
