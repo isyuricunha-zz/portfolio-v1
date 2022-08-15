@@ -9,15 +9,13 @@ export const Main: FC = () => {
             <div className="mb-3 md:mb-0 md:mr-5">
               <img
                 src="/icon.png"
-                className="rounded-full border-4 border-gray-800 md:h-auto md:w-auto w-5/12 h-5/12"
+                className="rounded-full border-4 border-gray-800 md:h-auto md:w-64 w-5/12 h-5/12"
                 alt=""
               />
             </div>
             <div className="">
-              <p className="flex text-5xl font-bold text-gray-100">
-                Yuri Cunha
-              </p>
-              <p className="flex ml-2 text-fuchsia-400 text-opacity-65 text-xl font-medium">
+              <p className="flex text-5xl font-bold text-gray-100">Yuri Cunha</p>
+              <p className="flex text-fuchsia-400 text-opacity-65 text-xl font-medium">
                 Front-end Developer Junior
               </p>
               <br />
