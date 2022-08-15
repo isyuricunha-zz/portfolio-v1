@@ -7,7 +7,7 @@ import { Popup } from "@components/Popup";
 const Home = () => {
   return (
     <div>
-      <Header title="Yuri Cunha" />
+      <Header title="Home" />
 
       <Popup />
       <Navbar />
